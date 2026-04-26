@@ -41,10 +41,14 @@ This is intentionally a **rough first cut** to prove the technique works. There 
 
 Anything with `backdrop-filter` support, which today is essentially every current browser. No vendor-specific filters or SVG `<feDisplacementMap>` involved, which is what historically made this kind of effect a Safari-only or filter-graph-only trick.
 
+## Future explorations
+
+I might try to take the effect further, with more layers, but that can become rather expensive in terms of compute. Also, `mask-image` can have an image (eg. SVG) as well, which I may explore soon. Different shapes can have this effect it this works out. Also thinking of creating a demo with parameters UI, so you can play with the settings.
+
 ## Image credits
 
-- `img/threads.webp` — sourced from [Freepik](https://www.freepik.com/) (premium account).
-- `img/vases.webp` — photo by [Natalie Kinnear](https://unsplash.com/) on Unsplash.
+- `img/threads.webp` — sourced from [Freepik]([https://www.freepik.com/](https://www.freepik.com/free-vector/gradient-logo-template-new-threads-social-media-application_63087147.htm#fromView=search&page=1&position=33&uuid=b9a9041c-22b4-4bdf-9513-01945c438b9e&query=text+collage+colors)) (premium account).
+- `img/vases.webp` — photo by [Natalie Kinnear]([https://unsplash.com/](https://unsplash.com/photos/three-vases-with-flowers-in-them-on-a-white-background--VRIZVaSXH8)) on Unsplash.
 
 ## License
 
