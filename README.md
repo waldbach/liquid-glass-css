@@ -20,6 +20,8 @@ outermost ring → heavy blur, high saturation
 center        → minimal blur, near-clear
 ```
 
+> **Note on saturation:** the high `saturate()` values across the rings are deliberately exaggerated to make the refraction effect more visible in the demo. Feel free to tone them down — or remove them entirely — to suit your own taste. The blur stack alone is enough to sell the effect; the saturation is just seasoning.
+
 ## Run it
 
 Just open `index.html` in a browser. No build step, no dependencies to install. jQuery and jQuery UI are loaded from a CDN purely to make the disc draggable for the demo.
@@ -48,4 +50,4 @@ Anything with `backdrop-filter` support, which today is essentially every curren
 
 MIT — see [LICENSE](LICENSE).
 
-Built by [Janne Wolterbeek](https://studiowaldbach.com) / Studio Waldbach.
+Built by [Janne Wolterbeek](https://waldbach.studio/) / Studio Waldbach.
