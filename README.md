@@ -47,8 +47,8 @@ I might try to take the effect further, with more layers, but that can become ra
 
 ## Image credits
 
-- `img/threads.webp` — sourced from [Freepik]([https://www.freepik.com/](https://www.freepik.com/free-vector/gradient-logo-template-new-threads-social-media-application_63087147.htm) (premium account).
-- `img/vases.webp` — photo by [Natalie Kinnear]([https://unsplash.com/](https://unsplash.com/photos/three-vases-with-flowers-in-them-on-a-white-background--VRIZVaSXH8) on Unsplash.
+- `img/threads.webp` — sourced from [Freepik](https://www.freepik.com/free-vector/gradient-logo-template-new-threads-social-media-application_63087147.htm) (premium account).
+- `img/vases.webp` — photo by [Natalie Kinnear](https://unsplash.com/photos/three-vases-with-flowers-in-them-on-a-white-background--VRIZVaSXH8) on Unsplash.
 
 ## License
 
