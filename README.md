@@ -4,7 +4,7 @@ A proof-of-concept **faux refraction effect** for the web — Apple-style "Liqui
 
 ## Demo
 
-**Live demo:** _add your GitHub Pages URL here once published_
+**Live demo:** [waldbach.github.io/liquid-glass-css](https://waldbach.github.io/liquid-glass-css/)
 
 ![Liquid Glass demo](img/demo.webp)
 
