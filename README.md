@@ -6,7 +6,7 @@ A proof-of-concept **faux refraction effect** for the web — Apple-style "Liqui
 
 **Live demo:** _add your GitHub Pages URL here once published_
 
-![Liquid Glass demo](img/demo.gif)
+![Liquid Glass demo](img/demo.webp)
 
 Drag the glass disc across the background to see the effect. A switcher in the bottom-right corner lets you swap between two background images.
 
